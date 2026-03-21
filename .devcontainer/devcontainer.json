@@ -6,7 +6,7 @@
 	"image": "mcr.microsoft.com/devcontainers/javascript-node:1-24-bookworm",
 	"features": {
 		"ghcr.io/devcontainers-extra/features/node-asdf:0": {},
-		"ghcr.io/devcontainer-config/features/dot-config:3": {}
+		"ghcr.io/devcontainer-config/features/dot-config:4": {}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
